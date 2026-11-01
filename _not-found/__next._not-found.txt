@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[45121,["/aakash-weds-sayali/_next/static/chunks/150a08340a947ea6.js","/aakash-weds-sayali/_next/static/chunks/7dfeab42587bcc0e.js"],"default"]
+3:I[60512,["/aakash-weds-sayali/_next/static/chunks/150a08340a947ea6.js","/aakash-weds-sayali/_next/static/chunks/7dfeab42587bcc0e.js"],"default"]
+0:{"buildId":"iXajuEWHUE4a7SzH8fajq","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
